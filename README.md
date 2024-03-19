@@ -63,8 +63,9 @@ Now you can test Routes at postman Platform.
 
 All requests to test: https://github.com/Breksam/Auth_API/blob/master/requests.txt
 
-## License
+## Authors
 
-The MIT License (MIT) 2024 - [Breksam Hassan Elsokkary](https://github.com/Breksam). Please have a look at the [LICENSE.md](LICENSE.md) for more details.
+  - **Breksam Hassan Elsokkary** - (https://github.com/Breksam)
+
 
 
