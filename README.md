@@ -10,6 +10,7 @@ for user:
 - Use SMTP to send an email to verify the user's email address.
 - Respond to forgotten passwords and reset them by emailing the user an OTP code.
 - Handle mail notifications when the user has registered or logged in.
+
 For administrator: 
 - Create a user crud to manage all users.
 - Create a role crud to manage all roles in the system, such as admin, moderator, tester, etc.
