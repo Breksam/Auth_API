@@ -1,6 +1,6 @@
 # Auth_API
 
-JWT Authentication & Authorization REST API with Laravel 9.
+JWT authentication & authorization REST API with Laravel 9.
 
 ## Getting Started
 
