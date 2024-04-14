@@ -1,6 +1,6 @@
 # Auth_API
 
-JWT authentication & authorization REST API with Laravel 9.
+JWT authentication & authorization REST API with Laravel 9.x.
 
 ## Getting Started
 
@@ -42,7 +42,8 @@ then open your .env file and change the database name (DB_DATABASE) to whatever 
 
 after that, set mail SMTP settings in .env file.
 
-open terminal in the project then:
+open the terminal in the project then:
+
 run
 
     php artisan key:generate
